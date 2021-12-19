@@ -1,0 +1,65 @@
+
+.bg
+{
+	background-image: url(https://cdn2.vectorstock.com/i/1000x1000/48/01/colorful-polygonal-background-abstract-form-vector-23254801.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.bn
+{
+	background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+} 
+.bn:hover {background-color: blue;}
+
+
+.bn1
+{
+	background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+} 
+.bn1:hover {background-color: red;}
+
+.bn2
+{
+	background-color: gray;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+} 
+.bn2:hover {background-color: red;}
+
+td ,th{
+	border:2px solid black;
+	padding:8px;
+}
+table
+{
+	border-collapse: collapse;
+	width:100px;
+}
+th
+{
+	font-weight: bold;
+	text-transform: uppercase;
+}
